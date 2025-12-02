@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+
+langchain
+langchain-community
+langgraph
+
+groq           # NEW → Groq Python SDK
+langchain-groq # LangChain wrapper for Groq models
+
+python-dotenv
+
+chromadb       # local vector DB
